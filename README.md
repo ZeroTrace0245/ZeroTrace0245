@@ -103,24 +103,11 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeroTrace0245&theme=tokyonight&hide_border=true&ring=9745F5&fire=9745F5&currStreakLabel=9745F5" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeroTrace0245&show_icons=true&theme=tokyonight&hide_border=true&icon_color=9745F5&title_color=9745F5" width="49%" />
-</div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroTrace0245&layout=donut-vertical&theme=tokyonight&hide_border=true&title_color=9745F5" width="38%" />
-</div>
-
-<br/>
 
 <!-- GitHub Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZeroTrace0245&theme=tokyo-night&hide_border=true&color=9745F5&line=9745F5&point=FFFFFF" width="95%" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 <br/>
