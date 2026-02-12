@@ -1,10 +1,8 @@
-<<<<<<< HEAD
 <!-- Animated Header -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ZeroTrace&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Developer%20%7C%20Gamer%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18" width="100%" />
 </div>
-=======
->>>>>>> f9a8ad8be0ae4e2a8fb95d2af3b838c4a468c158
+
 
 <!-- Typing Animation -->
 <div align="center">
@@ -80,7 +78,7 @@
 <br/>
 
 <!-- Steam Profile Showcase -->
-## <img src="https://media.giphy.com/media/kiBcwEXegBTACmVOnE/giphy.gif" width="30"> Gaming — Steam Profile
+## <img src="https://media.giphy.com/media/kiBcwEXegBTACmVOnE/giphy.gif" width="30">Steam Profile
 
 <div align="center">
 
@@ -99,12 +97,6 @@
   [![Steam Profile Badge](https://img.shields.io/badge/Visit%20My%20Steam%20Profile-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199213792988/)
 
 </div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<br/>
 
 <!-- GitHub Stats -->
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"> GitHub Stats
@@ -136,28 +128,14 @@
 <!-- GitHub Trophies -->
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ZeroTrace0245&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" width="90%" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
 <br/>
 
 <!-- Snake Animation -->
 <div align="center">
-<<<<<<< HEAD
 
   ![snake gif](https://github.com/ZeroTrace0245/ZeroTrace0245/blob/e70d5da5a5b1e50c27479b16abd2fe549165b1da/github-snake-dark.svg)
 
 </div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
 <br/>
 
 <!-- Connect With Me -->
@@ -185,8 +163,3 @@
 <!-- Animated Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
-=======
-    
-  ![snake gif](https://github.com/ZeroTrace0245/ZeroTrace0245/blob/e70d5da5a5b1e50c27479b16abd2fe549165b1da/github-snake-dark.svg)
->>>>>>> f9a8ad8be0ae4e2a8fb95d2af3b838c4a468c158
-</div>
