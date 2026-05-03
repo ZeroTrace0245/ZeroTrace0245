@@ -82,23 +82,26 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,1,20&height=90&section=header&text=Balance%20%7C%20Steam%20%7C%20Yin%20Yang&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d0d0d&height=90&section=header&text=Balance%20%7C%20Steam%20%7C%20Yin%20Yang&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=55" width="100%" />
 
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/Steam-ゼロトレース-ffffff?style=for-the-badge&logo=steam&logoColor=000000&labelColor=000000" alt="Steam Profile Badge" />
+        <img src="https://image.thum.io/get/width/900/crop/1200/https://steamcommunity.com/profiles/76561199213792988/" alt="Steam Profile Preview" />
         <br/><br/>
         <a href="https://steamcommunity.com/profiles/76561199213792988/">
-          <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561199213792988&theme=dark&show_in_game_bg=true" alt="Steam Status" />
+          <img src="https://img.shields.io/badge/Open%20Steam%20Profile-ffffff?style=for-the-badge&logo=steam&logoColor=000000&labelColor=000000" alt="Open Steam Profile" />
         </a>
       </td>
       <td align="center" width="50%">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,1,20&height=170&section=header&text=☯&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=50" width="100%" />
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=170&section=header&text=☯&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=50" width="100%" />
         <br/><br/>
         <strong>Black / White / Balance</strong>
         <br/>
-        Steam with a cleaner monochrome rhythm.
+        Steam in a mini profile preview, kept inside the yin-yang palette.
+        <br/><br/>
+        <img src="https://img.shields.io/badge/YIN-000000?style=for-the-badge&logoColor=ffffff" alt="Yin" />
+        <img src="https://img.shields.io/badge/YANG-ffffff?style=for-the-badge&logoColor=000000" alt="Yang" />
         <br/><br/>
         🕹️ <strong>Recently Playing:</strong> Ghost Recon Breakpoint · Black Myth: Wukong · Need for Speed™ Unbound
       </td>
