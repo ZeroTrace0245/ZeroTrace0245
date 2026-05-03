@@ -84,13 +84,7 @@
   [![Steam Profile](https://img.shields.io/badge/🎮_Steam-ゼロトレース-1a1a1a?style=for-the-badge&logo=steam&logoColor=white&labelColor=2d2d2d)](https://steamcommunity.com/profiles/76561199213792988/)
 
   <a href="https://steamcommunity.com/profiles/76561199213792988/">
-    <img src="https://steamsignature.com/profile/76561199213792988/summary/dark.png" alt="Steam Profile Card" width="100%" style="max-width: 600px; border-radius: 8px;" />
-  </a>
-
-  <br/><br/>
-
-  <a href="https://steamcommunity.com/profiles/76561199213792988/">
-    <img src="https://steamcard.vercel.app/?id=76561199213792988&theme=dark" alt="Steam Card" width="100%" style="max-width: 600px; border-radius: 8px;" />
+    <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561199213792988&theme=dark&show_in_game_bg=true&border_color=1a1a1a" alt="Steam Profile" />
   </a>
 
   <br/><br/>
