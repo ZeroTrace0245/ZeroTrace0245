@@ -1,35 +1,11 @@
 <!-- Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=ZeroTrace&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Gamer%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18&customColorList=0,255" width="100%" style="animation: slideInRight 1s ease-in-out;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,255&height=200&section=header&text=ZeroTrace&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Gamer%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18" width="100%" />
 </div>
-
-<style>
-  @keyframes slideInRight {
-    from { transform: translateX(100%); opacity: 0; }
-    to { transform: translateX(0); opacity: 1; }
-  }
-  @keyframes slideInLeft {
-    from { transform: translateX(-100%); opacity: 0; }
-    to { transform: translateX(0); opacity: 1; }
-  }
-  @keyframes slideHorizontal {
-    0%, 100% { transform: translateX(-2px); }
-    50% { transform: translateX(2px); }
-  }
-  @keyframes glideRight {
-    from { transform: translateX(-30px); opacity: 0; }
-    to { transform: translateX(0); opacity: 1; }
-  }
-  @keyframes glideLeft {
-    from { transform: translateX(30px); opacity: 0; }
-    to { transform: translateX(0); opacity: 1; }
-  }
-</style>
-
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Hey+There!+Welcome+to+my+Portfolio;%F0%9F%92%BB+Passionate+about+Code+%26+Gaming;%F0%9F%9A%80+Always+Learning+%7C+Always+Building" alt="Typing SVG" style="animation: slideInLeft 1s ease-in-out;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Hey+There!+Welcome+to+my+Portfolio;%F0%9F%92%BB+Passionate+about+Code+%26+Gaming;%F0%9F%9A%80+Always+Learning+%7C+Always+Building" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -68,29 +44,29 @@
 
 ### 🔥 Languages I Love
 
-![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-1a1a1a?style=for-the-badge&logo=csharp&logoColor=ffffff)
+![Java](https://img.shields.io/badge/Java-1a1a1a?style=for-the-badge&logo=openjdk&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=ffffff)
 
 ### 🌐 Web Development
 
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-2d2d2d?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/CSS3-2d2d2d?style=for-the-badge&logo=css3&logoColor=ffffff)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-2d2d2d?style=for-the-badge&logo=bootstrap&logoColor=ffffff)
 
 ### ⚙️ Frameworks & Tools
 
-![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-000000?style=for-the-badge&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-1a1a1a?style=for-the-badge&logo=dotnet&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/MySQL-2d2d2d?style=for-the-badge&logo=mysql&logoColor=ffffff)
+![Git](https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=ffffff)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-2d2d2d?style=for-the-badge&logo=visualstudio&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/VS%20Code-1a1a1a?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
 
 ### 📚 Currently Learning
 
-![ASP.NET](https://img.shields.io/badge/ASP.NET-000000?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-000000?style=for-the-badge&logo=dotnet&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge&logo=fastapi&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-2d2d2d?style=for-the-badge&logo=dotnet&logoColor=ffffff)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-1a1a1a?style=for-the-badge&logo=dotnet&logoColor=ffffff)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-2d2d2d?style=for-the-badge&logo=fastapi&logoColor=ffffff)
 
 </div>
 
@@ -101,14 +77,20 @@
 <br/>
 
 <!-- Steam Profile Showcase -->
-## <img src="https://media.giphy.com/media/kiBcwEXegBTACmVOnE/giphy.gif" width="30">Steam Profile
+## 🎮 Steam Profile
 
 <div align="center">
 
-  [![Steam Profile](https://img.shields.io/badge/🎮_Steam-ゼロトレース-171a21?style=for-the-badge&logo=steam&logoColor=white&labelColor=1b2838)](https://steamcommunity.com/profiles/76561199213792988/)
+  [![Steam Profile](https://img.shields.io/badge/🎮_Steam-ゼロトレース-1a1a1a?style=for-the-badge&logo=steam&logoColor=white&labelColor=2d2d2d)](https://steamcommunity.com/profiles/76561199213792988/)
 
   <a href="https://steamcommunity.com/profiles/76561199213792988/">
-    <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561199213792988&theme=tokyonight&show_in_game_bg=true" alt="Steam Status" />
+    <img src="https://steamsignature.com/profile/76561199213792988/summary/dark.png" alt="Steam Profile Card" width="100%" style="max-width: 600px; border-radius: 8px;" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://steamcommunity.com/profiles/76561199213792988/">
+    <img src="https://steamcard.vercel.app/?id=76561199213792988&theme=dark" alt="Steam Card" width="100%" style="max-width: 600px; border-radius: 8px;" />
   </a>
 
   <br/><br/>
@@ -117,7 +99,7 @@
 
   <br/>
 
-  [![Steam Profile Badge](https://img.shields.io/badge/Visit%20My%20Steam%20Profile-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199213792988/)
+  [![Steam Profile Badge](https://img.shields.io/badge/Visit%20My%20Steam%20Profile-1a1a1a?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199213792988/)
 
 </div>
 
@@ -125,12 +107,12 @@
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeroTrace0245&theme=dark&hide_border=true&ring=000000&fire=000000&currStreakLabel=000000" width="49%" style="animation: slideInLeft 1s ease-in-out;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeroTrace0245&theme=dark&hide_border=true&ring=FFFFFF&fire=888888&currStreakLabel=FFFFFF" width="49%" />
 
 
 <!-- GitHub Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZeroTrace0245&theme=github-dark&hide_border=true&color=000000&line=000000&point=FFFFFF" width="95%" style="animation: slideInRight 1s ease-in-out;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZeroTrace0245&theme=github-dark&hide_border=true&color=FFFFFF&line=888888&point=FFFFFF" width="95%" />
 </div>
 
 <br/>
@@ -153,8 +135,8 @@
 
 <div align="center">
 
-  [![GitHub](https://img.shields.io/badge/GitHub-ZeroTrace0245-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZeroTrace0245)
-  [![Steam](https://img.shields.io/badge/Steam-ゼロトレース-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199213792988/)
+  [![GitHub](https://img.shields.io/badge/GitHub-ZeroTrace0245-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZeroTrace0245)
+  [![Steam](https://img.shields.io/badge/Steam-ゼロトレース-1a1a1a?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199213792988/)
 
 </div>
 
@@ -163,8 +145,8 @@
 <!-- Profile Views & Followers -->
 <div align="center">
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=ZeroTrace0245&color=000000&style=for-the-badge)
-  [![GitHub followers](https://img.shields.io/github/followers/ZeroTrace0245?style=for-the-badge&color=000000)](https://github.com/ZeroTrace0245?tab=followers)
+  ![Profile Views](https://komarev.com/ghpvc/?username=ZeroTrace0245&color=333333&style=for-the-badge)
+  [![GitHub followers](https://img.shields.io/github/followers/ZeroTrace0245?style=for-the-badge&color=333333)](https://github.com/ZeroTrace0245?tab=followers)
 
 </div>
 
@@ -172,4 +154,5 @@
 
 <!-- Animated Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,255&height=120&section=footer\" width="100%" />
+</div>
