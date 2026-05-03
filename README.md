@@ -1,12 +1,35 @@
 <!-- Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ZeroTrace&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Developer%20%7C%20Gamer%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=ZeroTrace&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Gamer%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18&customColorList=0,255" width="100%" style="animation: slideInRight 1s ease-in-out;" />
 </div>
+
+<style>
+  @keyframes slideInRight {
+    from { transform: translateX(100%); opacity: 0; }
+    to { transform: translateX(0); opacity: 1; }
+  }
+  @keyframes slideInLeft {
+    from { transform: translateX(-100%); opacity: 0; }
+    to { transform: translateX(0); opacity: 1; }
+  }
+  @keyframes slideHorizontal {
+    0%, 100% { transform: translateX(-2px); }
+    50% { transform: translateX(2px); }
+  }
+  @keyframes glideRight {
+    from { transform: translateX(-30px); opacity: 0; }
+    to { transform: translateX(0); opacity: 1; }
+  }
+  @keyframes glideLeft {
+    from { transform: translateX(30px); opacity: 0; }
+    to { transform: translateX(0); opacity: 1; }
+  }
+</style>
 
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=9745F5&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Hey+There!+Welcome+to+my+Portfolio;%F0%9F%92%BB+Passionate+about+Code+%26+Gaming;%F0%9F%9A%80+Always+Learning+%7C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Hey+There!+Welcome+to+my+Portfolio;%F0%9F%92%BB+Passionate+about+Code+%26+Gaming;%F0%9F%9A%80+Always+Learning+%7C+Always+Building" alt="Typing SVG" style="animation: slideInLeft 1s ease-in-out;" />
 </div>
 
 <div align="center">
@@ -45,29 +68,29 @@
 
 ### 🔥 Languages I Love
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 
 ### 🌐 Web Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### ⚙️ Frameworks & Tools
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-000000?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### 📚 Currently Learning
 
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-000000?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-000000?style=for-the-badge&logo=dotnet&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
 
@@ -102,12 +125,12 @@
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeroTrace0245&theme=tokyonight&hide_border=true&ring=9745F5&fire=9745F5&currStreakLabel=9745F5" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeroTrace0245&theme=dark&hide_border=true&ring=000000&fire=000000&currStreakLabel=000000" width="49%" style="animation: slideInLeft 1s ease-in-out;" />
 
 
 <!-- GitHub Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZeroTrace0245&theme=tokyo-night&hide_border=true&color=9745F5&line=9745F5&point=FFFFFF" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZeroTrace0245&theme=github-dark&hide_border=true&color=000000&line=000000&point=FFFFFF" width="95%" style="animation: slideInRight 1s ease-in-out;" />
 </div>
 
 <br/>
@@ -130,7 +153,7 @@
 
 <div align="center">
 
-  [![GitHub](https://img.shields.io/badge/GitHub-ZeroTrace0245-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZeroTrace0245)
+  [![GitHub](https://img.shields.io/badge/GitHub-ZeroTrace0245-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZeroTrace0245)
   [![Steam](https://img.shields.io/badge/Steam-ゼロトレース-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199213792988/)
 
 </div>
@@ -140,8 +163,8 @@
 <!-- Profile Views & Followers -->
 <div align="center">
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=ZeroTrace0245&color=blueviolet&style=for-the-badge)
-  [![GitHub followers](https://img.shields.io/github/followers/ZeroTrace0245?style=for-the-badge&color=blueviolet)](https://github.com/ZeroTrace0245?tab=followers)
+  ![Profile Views](https://komarev.com/ghpvc/?username=ZeroTrace0245&color=000000&style=for-the-badge)
+  [![GitHub followers](https://img.shields.io/github/followers/ZeroTrace0245?style=for-the-badge&color=000000)](https://github.com/ZeroTrace0245?tab=followers)
 
 </div>
 
