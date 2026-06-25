@@ -1,11 +1,6 @@
-<!-- Animated Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,255&height=200&section=header&text=ZeroTrace&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Gamer%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18" width="100%" />
-</div>
-
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Hey+There!+Welcome+to+my+Portfolio;%F0%9F%92%BB+Passionate+about+Code+%26+Gaming;%F0%9F%9A%80+Always+Learning+%7C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Hey+There!+Welcome+to+my+GitHub;%F0%9F%9A%80+Always+Learning+%7C+Always+Building" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -42,7 +37,7 @@
 
 <div align="center">
 
-### 🔥 Languages I Love
+### 🔥 Languages I'm working on
 
 ![C#](https://img.shields.io/badge/C%23-1a1a1a?style=for-the-badge&logo=csharp&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/Java-1a1a1a?style=for-the-badge&logo=openjdk&logoColor=ffffff)
@@ -75,25 +70,6 @@
 </div>
 
 <br/>
-
-<!-- Steam Profile Showcase -->
-## 🎮 Steam Profile
-
-<div align="center">
-
-  [![Steam Profile](https://img.shields.io/badge/🎮_Steam-ゼロトレース-1a1a1a?style=for-the-badge&logo=steam&logoColor=white&labelColor=2d2d2d)](https://steamcommunity.com/profiles/76561199213792988/)
-
-  [![Steam Card](https://steam-card.herokuapp.com/?id=76561199213792988&theme=dark)](https://steamcommunity.com/profiles/76561199213792988/)
-
-  <br/><br/>
-
-  🕹️ **Recently Playing:** Ghost Recon Breakpoint · Black Myth: Wukong · Need for Speed™ Unbound
-
-  <br/>
-
-  [![Steam Profile Badge](https://img.shields.io/badge/Visit%20My%20Steam%20Profile-1a1a1a?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199213792988/)
-
-</div>
 
 <!-- GitHub Stats -->
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"> GitHub Stats
