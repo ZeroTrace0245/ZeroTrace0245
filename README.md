@@ -80,7 +80,7 @@
 
 <!-- GitHub Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZeroTrace0245&theme=github-dark&hide_border=true&color=FFFFFF&line=888888&point=FFFFFF" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ゼロトレース&theme=github-dark&hide_border=true&color=FFFFFF&line=888888&point=FFFFFF" width="95%" />
 </div>
 
 <br/>
