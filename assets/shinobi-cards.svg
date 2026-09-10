@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="250" viewBox="0 0 1280 250" role="img" aria-labelledby="title desc">
+  <title id="title">The shinobi dossier</title>
+  <desc id="desc">Three animated crimson cards: aspiring .NET developer, Sri Lanka student, and gamer. Floating clan seals and drifting embers decorate the cards.</desc>
+  <defs>
+    <linearGradient id="card" x2="1" y2="1"><stop stop-color="#21121e"/><stop offset="1" stop-color="#0b0b12"/></linearGradient>
+    <pattern id="lines" width="12" height="12" patternUnits="userSpaceOnUse"><path d="M0 12L12 0" stroke="#f08094" stroke-opacity=".025"/></pattern>
+    <style>
+      .seal { transform-box: fill-box; transform-origin: center; animation: float 6s ease-in-out infinite; }
+      .second { animation-delay: -2s; } .third { animation-delay: -4s; }
+      .ember { animation: glow 4s ease-in-out infinite; }
+      @keyframes float { 50% { transform: translateY(-6px) rotate(6deg); } }
+      @keyframes glow { 50% { opacity: .25; } }
+      @media (prefers-reduced-motion: reduce) { .seal, .ember { animation: none; } }
+    </style>
+  </defs>
+  <g fill="url(#card)" stroke="#652338"><rect x="8" y="12" width="408" height="222" rx="14"/><rect x="436" y="12" width="408" height="222" rx="14"/><rect x="864" y="12" width="408" height="222" rx="14"/></g>
+  <g fill="url(#lines)"><rect x="8" y="12" width="408" height="222" rx="14"/><rect x="436" y="12" width="408" height="222" rx="14"/><rect x="864" y="12" width="408" height="222" rx="14"/></g>
+  <g fill="none" stroke="#ed5776" stroke-width="2">
+    <g class="seal"><circle cx="353" cy="70" r="27"/><path d="M353 43L376 83H330ZM353 57V76M346 70H360"/></g>
+    <g class="seal second"><circle cx="781" cy="70" r="27"/><path d="M765 84L781 52L797 84M773 70H789M763 91H799"/></g>
+    <g class="seal third"><circle cx="1209" cy="70" r="27"/><path d="M1191 61L1227 79M1227 61L1191 79M1209 49V91"/></g>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <g fill="#e98197" font-size="12" letter-spacing="3"><text x="32" y="51">忍 · THE CRAFT</text><text x="460" y="51">道 · THE JOURNEY</text><text x="888" y="51">影 · AFTER DARK</text></g>
+    <g fill="#fff0f3" font-size="29" font-weight="700"><text x="32" y="114">.NET Developer</text><text x="460" y="114">Always learning.</text><text x="888" y="114">Code. Play. Repeat.</text></g>
+    <g fill="#bdaab7" font-size="17"><text x="32" y="148">Aspiring full stack builder</text><text x="460" y="148">Student with a shinobi mindset</text><text x="888" y="148">A ghost in the system</text></g>
+    <g fill="#f08094" font-size="12" letter-spacing="2"><text x="32" y="203">C# · WEB · APPLICATIONS</text><text x="460" y="203">SRI LANKA · ONE STEP AT A TIME</text><text x="888" y="203">GAMER · ZEROTRACE0245</text></g>
+  </g>
+  <g class="ember" fill="#ff7391"><circle cx="395" cy="199" r="3"/><circle cx="823" cy="199" r="3"/><circle cx="1251" cy="199" r="3"/></g>
+</svg>

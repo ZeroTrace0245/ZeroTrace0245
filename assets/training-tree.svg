@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="500" viewBox="0 0 1280 500" role="img" aria-labelledby="title desc">
+  <title id="title">The next training arc — a tree of learning</title>
+  <desc id="desc">A crimson tree branches from full stack .NET into C# foundations, ASP.NET Core, Entity Framework, frontend, testing, and deployment. Light travels along its branches.</desc>
+  <defs>
+    <radialGradient id="bg"><stop stop-color="#29111f"/><stop offset="1" stop-color="#0b0b12"/></radialGradient>
+    <path id="branches" d="M640 415V290Q640 255 555 240L320 170M640 320Q590 300 430 300H310M640 365Q600 375 470 385H310M640 290Q640 255 725 240L960 170M640 320Q690 300 850 300H970M640 365Q680 375 810 385H970"/>
+    <style>
+      .energy { stroke-dasharray: 5 110; animation: flow 9s linear infinite; }
+      .moon { animation: glow 7s ease-in-out infinite; }
+      @keyframes flow { to { stroke-dashoffset: -460; } }
+      @keyframes glow { 50% { opacity: .35; } }
+      @media (prefers-reduced-motion: reduce) { .energy, .moon { animation: none; } }
+    </style>
+  </defs>
+  <rect x="8" y="8" width="1264" height="484" rx="18" fill="url(#bg)" stroke="#542033"/>
+  <circle class="moon" cx="640" cy="166" r="63" fill="#be294b" opacity=".2"/>
+  <circle cx="640" cy="166" r="47" fill="none" stroke="#b83a58" stroke-opacity=".5"/>
+  <g stroke-linecap="round" fill="none"><use href="#branches" stroke="#63293e" stroke-width="9"/><use class="energy" href="#branches" stroke="#f17b95" stroke-width="2"/>
+    <path d="M640 418L617 366L625 303L602 262L613 215L640 178L669 212L659 258L675 300L660 365ZM615 218L588 190L579 157M666 226L703 194L719 155M601 263L563 269M674 303L710 278" stroke="#b44a64" stroke-width="2"/>
+  </g>
+  <g fill="#130e17" stroke="#773048"><rect x="65" y="124" width="320" height="68" rx="9"/><rect x="45" y="266" width="320" height="68" rx="9"/><rect x="65" y="361" width="320" height="68" rx="9"/><rect x="895" y="124" width="320" height="68" rx="9"/><rect x="915" y="266" width="320" height="68" rx="9"/><rect x="895" y="361" width="320" height="68" rx="9"/></g>
+  <g font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <text x="640" y="53" fill="#f08094" font-size="12" letter-spacing="5">GROW THROUGH EVERY CHALLENGE</text>
+    <text x="640" y="87" fill="#fff0f3" font-size="25" font-weight="700">THE NEXT TRAINING ARC</text>
+    <g fill="#fff0f3" font-size="20" font-weight="600"><text x="225" y="153">C# foundations</text><text x="205" y="295">ASP.NET Core</text><text x="225" y="390">Entity Framework</text><text x="1055" y="153">Frontend</text><text x="1075" y="295">Application testing</text><text x="1055" y="390">Deployment</text></g>
+    <g fill="#bdaab7" font-size="13"><text x="225" y="176">Structure · async · clean code</text><text x="205" y="318">APIs · validation · authentication</text><text x="225" y="413">Relationships · migrations · queries</text><text x="1055" y="176">Responsive · accessible · consistent</text><text x="1075" y="318">Behavior · confidence · regression checks</text><text x="1055" y="413">Build · configure · release</text></g>
+    <text x="640" y="458" fill="#f08094" font-size="16" letter-spacing="3">FULL STACK .NET</text>
+  </g>
+</svg>

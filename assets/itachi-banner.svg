@@ -2,6 +2,17 @@
   <title id="title">ゼロトレース — ZeroTrace0245 — Code from the shadows</title>
   <desc id="desc">An Itachi-inspired charcoal banner with ゼロトレース highlighted in front of shadowed ZeroTrace0245 lettering, a crimson Sharingan moon, red clouds, and drifting feathers.</desc>
   <defs>
+    <style>
+      .eye { animation: turn 32s linear infinite; }
+      .mist { animation: drift 9s ease-in-out infinite alternate; }
+      .leaves { animation: fall 8s ease-in-out infinite alternate; }
+      .aura { animation: breathe 6s ease-in-out infinite; }
+      @keyframes turn { to { transform: rotate(360deg); } }
+      @keyframes drift { to { transform: translate(-18px, 5px); } }
+      @keyframes fall { to { transform: translate(-28px, 24px); opacity: .25; } }
+      @keyframes breathe { 50% { opacity: .45; } }
+      @media (prefers-reduced-motion: reduce) { .eye, .mist, .leaves, .aura { animation: none; } }
+    </style>
     <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#09090F"/><stop offset="1" stop-color="#201019"/></linearGradient>
     <radialGradient id="halo"><stop stop-color="#B91C3C" stop-opacity=".28"/><stop offset="1" stop-color="#B91C3C" stop-opacity="0"/></radialGradient>
     <linearGradient id="moon" x2="0.8" y2="1"><stop stop-color="#F87171"/><stop offset=".55" stop-color="#DC2648"/><stop offset="1" stop-color="#7F102B"/></linearGradient>
@@ -11,7 +22,11 @@
   </defs>
   <rect width="1280" height="440" rx="20" fill="url(#bg)"/>
   <rect width="1280" height="440" rx="20" fill="url(#grid)"/>
-  <circle cx="1010" cy="215" r="275" fill="url(#halo)"/>
+  <circle class="aura" cx="1010" cy="215" r="275" fill="url(#halo)"/>
+  <g fill="none" stroke="#08080e" stroke-linecap="round">
+    <path d="M1280 420Q1180 358 1138 282Q1096 201 1040 159M1140 285Q1215 246 1280 258M1105 230Q1153 157 1164 78M1160 110L1224 58M1062 178L1045 95" stroke-width="17"/>
+    <path d="M1180 367L1240 332L1272 292M1195 251L1206 214L1247 189M1150 174L1206 151M1091 214L1030 212L995 185M1167 80L1143 39M1217 64L1233 23M0 14Q79 40 140 27L221 0M83 33L117 76L174 90M139 29L180 57" stroke-width="6"/>
+  </g>
   <path d="M32 32H1248M32 408H1248" stroke="#F87171" stroke-opacity=".18"/>
   <path d="M32 70V32H70M1210 408H1248V370" fill="none" stroke="#DC2648" stroke-width="2"/>
   <g transform="translate(1000 212)">
@@ -20,26 +35,26 @@
     <circle r="121" fill="url(#moon)"/>
     <circle r="113" fill="none" stroke="#210C14" stroke-width="3"/>
     <circle r="67" fill="none" stroke="#210C14" stroke-width="2"/>
-    <g fill="#100B12"><circle r="23"/><use href="#tomoe"/><use href="#tomoe" transform="rotate(120)"/><use href="#tomoe" transform="rotate(240)"/></g>
+    <g class="eye" fill="#100B12"><circle r="23"/><use href="#tomoe"/><use href="#tomoe" transform="rotate(120)"/><use href="#tomoe" transform="rotate(240)"/></g>
   </g>
-  <g fill="#8F1D35" stroke="#EEB4BF" stroke-width="1.7">
+  <g class="mist" fill="#8F1D35" stroke="#EEB4BF" stroke-width="1.7">
     <use href="#cloud" transform="translate(1095 315) scale(1.5)"/>
     <use href="#cloud" transform="translate(824 85) scale(.72)" opacity=".6"/>
     <use href="#cloud" transform="translate(730 347) scale(.8)" opacity=".45"/>
   </g>
-  <g fill="#C9435E" opacity=".6">
+  <g class="leaves" fill="#C9435E" opacity=".6">
     <path d="M768 180Q792 159 780 132Q777 156 760 166L772 161Z"/>
     <path d="M1174 106Q1198 85 1186 58Q1183 82 1166 92L1178 87Z"/>
     <path d="M864 298Q888 277 876 250Q873 274 856 284L868 279Z"/>
   </g>
   <g font-family="Segoe UI, Arial, sans-serif">
-    <text x="76" y="101" fill="#F08094" font-size="13" letter-spacing="5">THE SHINOBI ARCHIVE / 0245</text>
+    <text x="76" y="101" fill="#F08094" font-size="13" letter-spacing="5">THE SHINOBI ARCHIVE · 0245</text>
     <text x="79" y="169" fill="#713047" opacity=".3" font-size="78" font-weight="750" letter-spacing="-3">ZeroTrace0245</text>
     <text x="80" y="210" fill="#B91C3C" opacity=".45" font-family="Yu Gothic, Meiryo, Noto Sans JP, sans-serif" font-size="76" font-weight="700" letter-spacing="5" aria-hidden="true">ゼロトレース</text>
     <text x="74" y="204" fill="#FFF0F3" font-family="Yu Gothic, Meiryo, Noto Sans JP, sans-serif" font-size="76" font-weight="700" letter-spacing="5">ゼロトレース</text>
     <text x="76" y="244" fill="#F87171" font-size="23" letter-spacing="4">CODE FROM THE SHADOWS.</text>
     <path d="M76 277H140" stroke="#DC2648" stroke-width="3"/>
     <text x="76" y="314" fill="#BCAFB9" font-size="18">A student of code. A builder in the making.</text>
-    <text x="76" y="368" fill="#877885" font-size="12" letter-spacing="3">C# / .NET / WEB DEVELOPMENT</text>
+    <text x="76" y="368" fill="#877885" font-size="12" letter-spacing="3">C# · .NET · WEB DEVELOPMENT</text>
   </g>
 </svg>

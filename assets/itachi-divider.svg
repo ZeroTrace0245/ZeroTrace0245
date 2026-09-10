@@ -1,6 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="64" viewBox="0 0 1280 64" role="img" aria-labelledby="title">
   <title id="title">Crimson Sharingan divider</title>
+  <style>
+    .trail { stroke-dasharray: 12 42; animation: travel 14s linear infinite; }
+    @keyframes travel { to { stroke-dashoffset: -432; } }
+    @media (prefers-reduced-motion: reduce) { .trail { animation: none; } }
+  </style>
   <defs><linearGradient id="line"><stop stop-color="#B91C3C" stop-opacity="0"/><stop offset=".5" stop-color="#B91C3C"/><stop offset="1" stop-color="#B91C3C" stop-opacity="0"/></linearGradient></defs>
   <path d="M0 32H600M680 32H1280" stroke="url(#line)" stroke-width="2"/>
+  <path class="trail" d="M0 32H600M680 32H1280" stroke="#f08094" stroke-opacity=".55" fill="none"/>
+  <path d="M410 32L449 19L482 22M449 19L467 8M870 32L831 45L798 42M831 45L813 56" stroke="#9d3652" fill="none"/>
   <g transform="translate(640 32)"><circle r="20" fill="#B91C3C"/><circle r="13" fill="none" stroke="#16161E"/><circle r="5" fill="#16161E"/><g fill="#16161E"><circle cy="-13" r="3"/><circle cx="11.26" cy="6.5" r="3"/><circle cx="-11.26" cy="6.5" r="3"/></g></g>
 </svg>
