@@ -1,126 +1,84 @@
-<!-- Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Hey+There!+Welcome+to+my+GitHub;%F0%9F%9A%80+Always+Learning+%7C+Always+Building" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<br/>
-
-<!-- About Me -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
-
 <div align="center">
 
-```
-🎓 Student who transforms learning into real world impact
-💡 Passionate about building clean, efficient software
-🎯 Goal: Become a skilled Full Stack .NET Developer
-🌱 Currently diving deeper into C#, .NET & Web Technologies
-🎮 Gamer at heart  Code by day, Game by night
-```
+  <img src="assets/itachi-banner.svg" width="100%" alt="ゼロトレース — ZeroTrace0245 in the shadows, with an Itachi-inspired crimson Sharingan moon and Akatsuki clouds" />
+
+  <br />
+
+  **ASPIRING FULL STACK .NET DEVELOPER · STUDENT · GAMER**
+
+  Learning with intent. Building with patience. Leaving a trace through code.
+
+  [![Explore repositories](https://img.shields.io/badge/EXPLORE_MY_REPOS-B91C3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZeroTrace0245?tab=repositories)
+  [![Steam](https://img.shields.io/badge/STEAM-16161E?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199213792988/)
 
 </div>
 
-> *If you're already here, take a look around my repositories  you might find something interesting!*
+---
+
+### 01 / Behind the illusion
+
+I'm **ゼロトレース** — **ZeroTrace0245** on GitHub — a student turning what I learn into practical software. My mission is to become a skilled **Full Stack .NET Developer**, one project at a time.
+
+- **Building toward** clean, efficient software that solves real problems.
+- **Training in** C#, .NET, and web technologies.
+- **Exploring next** ASP.NET, Entity Framework, and REST APIs.
+- **Off the keyboard** gaming, recharging, and finding the next challenge.
+
+### 02 / The arsenal
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
 
-<br/>
-
-<!-- Passion & What I'm Learning -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> What I'm Passionate About
-
-<div align="center">
-
-### 🔥 Languages I'm working on
-
-![C#](https://img.shields.io/badge/C%23-1a1a1a?style=for-the-badge&logo=csharp&logoColor=ffffff)
-![Java](https://img.shields.io/badge/Java-1a1a1a?style=for-the-badge&logo=openjdk&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=ffffff)
-
-### 🌐 Web Development
-
-![HTML5](https://img.shields.io/badge/HTML5-2d2d2d?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/CSS3-2d2d2d?style=for-the-badge&logo=css3&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-2d2d2d?style=for-the-badge&logo=bootstrap&logoColor=ffffff)
-
-### ⚙️ Frameworks & Tools
-
-![.NET](https://img.shields.io/badge/.NET-1a1a1a?style=for-the-badge&logo=dotnet&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/MySQL-2d2d2d?style=for-the-badge&logo=mysql&logoColor=ffffff)
-![Git](https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=ffffff)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-2d2d2d?style=for-the-badge&logo=visualstudio&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/VS%20Code-1a1a1a?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
-
-### 📚 Currently Learning
-
-![ASP.NET](https://img.shields.io/badge/ASP.NET-2d2d2d?style=for-the-badge&logo=dotnet&logoColor=ffffff)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-1a1a1a?style=for-the-badge&logo=dotnet&logoColor=ffffff)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-2d2d2d?style=for-the-badge&logo=fastapi&logoColor=ffffff)
+  <img src="https://img.shields.io/badge/C%23-991B35?style=for-the-badge" alt="C sharp" />
+  <img src="https://img.shields.io/badge/.NET-991B35?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Java-991B35?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-991B35?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <br />
+  <img src="https://img.shields.io/badge/HTML5-20202B?style=for-the-badge&logo=html5&logoColor=F87171" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-20202B?style=for-the-badge&logo=css&logoColor=F87171" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-20202B?style=for-the-badge&logo=bootstrap&logoColor=F87171" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/MySQL-20202B?style=for-the-badge&logo=mysql&logoColor=F87171" alt="MySQL" />
+  <br />
+  <img src="https://img.shields.io/badge/Git-20202B?style=for-the-badge&logo=git&logoColor=F87171" alt="Git" />
+  <img src="https://img.shields.io/badge/Visual_Studio-20202B?style=for-the-badge" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/VS_Code-20202B?style=for-the-badge" alt="VS Code" />
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+### 03 / Training arc
 
-<br/>
+| Focus | What I'm learning |
+| :--- | :--- |
+| Backend | C# and ASP.NET application development |
+| Data | MySQL and Entity Framework |
+| Connections | Designing and consuming REST APIs |
+| Frontend | HTML, CSS, JavaScript, and Bootstrap |
 
-<!-- GitHub Stats -->
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"> GitHub Stats
+### 04 / The contribution hunt
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeroTrace0245&theme=dark&hide_border=true&ring=FFFFFF&fire=888888&currStreakLabel=FFFFFF" width="49%" />
-
-
-<!-- GitHub Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZeroTrace0245&theme=github-dark&hide_border=true&color=FFFFFF&line=888888&point=FFFFFF" width="95%" />
-</div>
-
-<br/>
-
-<!-- GitHub Trophies -->
-## 🏆 GitHub Trophies
-
-<br/>
-
-<!-- Snake Animation -->
-<div align="center">
-
-  ![snake gif](https://github.com/ZeroTrace0245/ZeroTrace0245/blob/e70d5da5a5b1e50c27479b16abd2fe549165b1da/github-snake-dark.svg)
-
-</div>
-<br/>
-
-<!-- Connect With Me -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect With Me
+Every contribution feeds the next move. A crimson snake retraces my GitHub activity, refreshed daily.
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZeroTrace0245/ZeroTrace0245/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZeroTrace0245/ZeroTrace0245/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/ZeroTrace0245/ZeroTrace0245/output/github-snake.svg" width="100%" alt="Animated crimson snake eating ZeroTrace0245's GitHub contribution grid" />
+  </picture>
 
-  [![GitHub](https://img.shields.io/badge/GitHub-ZeroTrace0245-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZeroTrace0245)
-  [![Steam](https://img.shields.io/badge/Steam-ゼロトレース-1a1a1a?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199213792988/)
+  [![Snake workflow](https://github.com/ZeroTrace0245/ZeroTrace0245/actions/workflows/snake.yml/badge.svg)](https://github.com/ZeroTrace0245/ZeroTrace0245/actions/workflows/snake.yml)
 
 </div>
 
-<br/>
+### 05 / Beyond the shadows
 
-<!-- Profile Views & Followers -->
+Browse my [repositories](https://github.com/ZeroTrace0245?tab=repositories) to follow what I'm learning and building, or find me on [Steam](https://steamcommunity.com/profiles/76561199213792988/).
+
 <div align="center">
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=ZeroTrace0245&color=333333&style=for-the-badge)
-  [![GitHub followers](https://img.shields.io/github/followers/ZeroTrace0245?style=for-the-badge&color=333333)](https://github.com/ZeroTrace0245?tab=followers)
+  **Quiet focus. Steady progress.**
 
-</div>
+  <sub>Visual theme inspired by Itachi Uchiha · Naruto</sub>
 
-<br/>
+  <br /><br />
+  <img src="assets/itachi-divider.svg" width="100%" alt="Crimson Sharingan divider" />
 
-<!-- Animated Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,255&height=120&section=footer\" width="100%" />
 </div>
